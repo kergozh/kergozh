@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lgbaixauli
+- 👋 Hi, I’m @kergozh 
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning python  
 
